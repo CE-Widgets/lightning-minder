@@ -1,5 +1,13 @@
 # Release notes
 
+## 2026.09.23-05 — Production
+
+- Released LightningMinder on Google Play.
+- Added Clear Monitoring, which immediately removes saved local monitoring
+  state and requests deletion of the associated backend push subscription.
+- Ensured Setup Monitoring actions remain above Android system navigation
+  controls on physical devices.
+
 ## 2026.09.22-04 — Internal testing
 
 - Added configurable fixed-location Alert and Critical lightning-report zones.

@@ -1,7 +1,7 @@
 # LightningMinder
 
-**Status:** 🔵 Internal Testing
-**Current version:** `2026.09.22-04`
+**Status:** 🟢 Production
+**Current version:** `2026.09.23-05`
 
 ![LightningMinder feature graphic](docs/feature-graphic.png)
 
@@ -48,6 +48,7 @@ configuration, or deployment credentials.
 
 - [Release Notes](docs/release-notes.md)
 - [Documentation](docs/README.md)
+- [Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.lightningminder)
 - [LightningMinder product page](https://champagne.engineering/lightningminder)
 - [Privacy Policy](https://champagne.engineering/privacy)
 - [Terms of Service](https://champagne.engineering/tos)
