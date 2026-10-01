@@ -1,5 +1,10 @@
 # Release notes
 
+## 2026.09.30-07 — Production
+
+- Improved periodic status refresh behavior after transient fetch failures.
+- Published the production build with its production service endpoint.
+
 ## 2026.09.23-05 — Production
 
 - Released LightningMinder on Google Play.
